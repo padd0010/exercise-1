@@ -16,3 +16,11 @@ html {
 *, *:before, *:after {
 	box-sizing: inherit;
 }
+
+.btn {
+	background-color: #0CF;
+	border-radius: 7px;
+	padding: 1rem;
+	font-size: 2rem;
+	text-decoration: none;
+}
