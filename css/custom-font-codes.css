@@ -1,8 +1,8 @@
 
-.icon-star:before { content: '\e800'; } /* '' */
-.icon-umbrella:before { content: '\e801'; } /* '' */
-.icon-sun:before { content: '\e802'; } /* '' */
-.icon-cloud:before { content: '\e803'; } /* '' */
-.icon-flash:before { content: '\e804'; } /* '' */
-.icon-paper-plane:before { content: '\e805'; } /* '' */
-.icon-leaf:before { content: '\e806'; } /* '' */
+.icon-ball:before { content: '\e800'; } /* '' */
+.icon-bucket:before { content: '\e801'; } /* '' */
+.icon-floaty:before { content: '\e802'; } /* '' */
+.icon-glasses:before { content: '\e803'; } /* '' */
+.icon-lifesaver:before { content: '\e804'; } /* '' */
+.icon-shark:before { content: '\e806'; } /* '' */
+.icon-sun:before { content: '\e807'; } /* '' */
