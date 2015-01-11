@@ -21,6 +21,13 @@ html {
 	box-sizing: inherit;
 }
 
+.img-flex {
+	display: block;
+	width: 15rem;
+	margin: auto;
+	padding-top: 1.5rem;
+}
+
 h1 {
 	font-size: 4rem;
 	color: #FC7F80;
@@ -30,11 +37,15 @@ h1 {
 
 h2 {
 	padding: 3rem;
-	margin: 0;
-	
+	margin: 0;	
 }
 
-.btn {
+a, a:visited, a:hover, a:focus, a:active {
+	text-decoration: none;
+	color: #000;
+}
+
+.btn, .btn:visited {
 	background-color: #AEE3DE;
 	border-radius: 7px;
 	padding: 1rem;
